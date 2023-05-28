@@ -33,3 +33,5 @@ openapi-lint:
 ```
 
 ## 🛠️ Tools included
+- [Prism](https://github.com/stoplightio/prism)
+- [Redocly](https://github.com/Redocly/redocly-cli)
